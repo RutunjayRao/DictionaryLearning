@@ -2,6 +2,7 @@
 Python notebook for DA623 course assignment on Dictionary Learning and its applications in signal denoising
 
 References:
+Online lectures of Hugo Larochelle
 https://www.cs.cmu.edu/~rsalakhu/10707/Lectures/Lecture_SparseCoding_2019.pdf
 https://www.geeksforgeeks.org/image-denoising-using-dictionary-learning-in-scikit-learn/
 https://www.sciencedirect.com/topics/computer-science/dictionary-learning
